@@ -1,5 +1,5 @@
 #include "stats.h"
-
+#include <cmath>
 double computeAverage(const std::vector<double>& passedStats, int n) {
 	
 	double sum = 0.0;
