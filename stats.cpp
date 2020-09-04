@@ -1,5 +1,5 @@
 #include "stats.h"
-
+include<cmath>
 typedef std::vector<double> vecDouble;
 
 class StatClass
